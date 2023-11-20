@@ -177,6 +177,7 @@ a:visited{
     color: blue;
 } */
 /* suffix */
-h1[text$="l"]{
+h1[text$="l"]
+{
     color: aqua;
 }
